@@ -158,8 +158,8 @@ window._CCSettings = {
     "md5AssetsMap": {
         "03/03f7ca26f.json": "f6b17",
         "06/0629afa22.json": "cbf42",
-        "09/090a99623.json": "1679b",
-        "0b/0b1bf8e52.json": "6ed1b",
+        "09/090a99623.json": "73fae",
+        "0b/0b1bf8e52.json": "533d6",
         "0b/0b7146e97.json": "5b010",
         "0c/0c49ae998.json": "7dd27",
         "assets/res/textures/bg.jpg": "e7b3b",
